@@ -18,7 +18,7 @@
         <samp>
                 「 From Hangzhou, China 」
                 <br>
-                「 Computer Science & Engineering @<b> University of HDU</b> 」
+                「 Computer Science & Engineering @HDU 」
                 <br>
                 <br>
         </samp>
@@ -60,7 +60,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Riadloc's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Riadloc&show_icons=true&theme=dracula" />
+                src="https://github-readme-stats.vercel.app/api?username=Riadloc&show_icons=true&theme=vue" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
